@@ -1,5 +1,5 @@
 {
-    "name": "tomorrow-ideas/plaid-sdk-php",
+    "name": "sanjacornelius/plaid-sdk-php",
     "description": "PHP implementation of Plaid's API as an SDK.",
     "keywords": [
         "plaid",
@@ -32,8 +32,8 @@
     "license": "MIT",
     "authors": [
         {
-            "name": "Brent Scheffler",
-            "email": "brent@brentscheffler.com"
+            "name": "Sanja Cornelius",
+            "email": "sanja.cornelius@processmaker.com"
         }
     ]
 }

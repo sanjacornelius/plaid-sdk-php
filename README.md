@@ -36,7 +36,7 @@ For full description of request and response payloads and properties, please see
 ## Installation
 
 ```bash
-composer require tomorrow-ideas/plaid-sdk-php
+composer require sanjacornelius/plaid-sdk-php
 ```
 
 ## Configuration
